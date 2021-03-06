@@ -6,12 +6,12 @@ pattern designning
 
 
 logical coding
-
-1 get a number from user and check it positive or negative
-2 get a number from user and check it positive or negative or zero
-3 get a number from user and check it is it even or odd number
-4 print all the even and odd number in in 1 to n range
-5 get a number and check it is prime number or composite
+folder name [logical]
+1 get a number from user and check it positive or negative[1.c]
+2 get a number from user and check it positive or negative or zero[2.c]
+3 get a number from user and check it is it even or odd number[3.c]
+4 print all the even and odd number in in 1 to n range[4.c]
+5 get a number and check it is prime number or composite[5.c]
 6 print all the number is prime number or composite from 1 to n
 7 program to assign two number and print there addition
 8 program to accept values of two numbers and print there addition
