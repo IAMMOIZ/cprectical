@@ -99,9 +99,3 @@ logical coding
 88 C Program to Write a Sentence to a File
 89 C Program to Read a Line From a File and Display it
 90 C Program to Display its own Source Code as Output
-91 
-array programming
-matrix programming
-file handling
-string programms
-data structure

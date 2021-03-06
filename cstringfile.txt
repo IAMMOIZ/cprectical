@@ -41,5 +41,4 @@ string programs
 40 Check if two strings match where one string contains wildcard characters
 41 C program to Reverse a Sentence Using Recursion
 42 C Program to Concatenate Two Strings
-43 C Program to Sort Elements in Lexicographical Order (Dictionary Order)
-44 
+43 C Program to Sort Elements in Lexicographical Order (Dictionary Order) 
