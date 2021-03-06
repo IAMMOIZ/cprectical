@@ -1,4 +1,4 @@
-//get a number from user and check it is positive or negative
+//get a number from user and check it positive or negative or zero
 #include<stdio.h>
 int main()
 {
@@ -12,7 +12,14 @@ printf("number is negative");
 }
 else
 {
+if(num > 0)
+{
 printf("number is positive");
+}
+else
+{
+printf("number is zero");
+}
 }
 
 return 0;
