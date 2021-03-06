@@ -1,0 +1,45 @@
+string programs
+1 program to take an alphabet fromuser check whether it is a vowel or not.
+2 program to add two string without using concat() function
+3 program to check vowels in string
+4 program to compare two strings
+5 program to compare two strings without using strcmp() function
+6 program to convert string from uppercase to lowercase
+7 program to copy string without using strcpy() function
+8 program to count frequency of character in a string
+9 program to count total number of uppercase and lowercase in a string
+10 program to calculate the length of the string
+11 program to calculate the length of the string without using strlen() function
+12 program to check the palindrome of the string
+13 program to check the palindrome of word using array
+14 program to remove white space in string
+15 program to reverse the string
+16 program to reverse the string using pointer
+17 program to sort the string
+18 program to swap two strings
+19 program to split words from a string using strtok() function
+20 program to read multiline string using scanf
+21 program to find day on perticular date
+22 wap to multiply and add two comples numbers
+23 program to convert string into lowercase
+24 program to convert string into uppercase
+25 A character is an alphabet or not
+26 Ascii values of a character
+27 Toggle each character in a string
+28 Remove vowels from a string
+29 Sorting a string in alphabetical order
+30 Removing brackets from an algebraic expression
+31 Remove characters in a string except alphabets
+32 Count the sum of numbers in a string
+33 Capitalize the first and last letter of each word of a string
+34 Frequency of characters in a string
+35 Non-repeating characters in a string
+36 Check if two strings are Anagram or not
+37 Patterns of 0(1+)0 in the given string
+38 Replace substring in a string
+39 Count common subsequence in two strings
+40 Check if two strings match where one string contains wildcard characters
+41 C program to Reverse a Sentence Using Recursion
+42 C Program to Concatenate Two Strings
+43 C Program to Sort Elements in Lexicographical Order (Dictionary Order)
+44 

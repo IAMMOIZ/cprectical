@@ -1,0 +1,107 @@
+pattern designning
+0 square pattern
+1 triangle pattern
+2 pyramid pattern
+3 square 
+
+
+logical coding
+
+1 get a number from user and check it positive or negative
+2 get a number from user and check it positive or negative or zero
+3 get a number from user and check it is it even or odd number
+4 print all the even and odd number in in 1 to n range
+5 get a number and check it is prime number or composite
+6 print all the number is prime number or composite from 1 to n
+7 program to assign two number and print there addition
+8 program to accept values of two numbers and print there addition
+9 program to calculate simple interest
+10 program to accept value of radius and print area of circle
+11 program to accept a number from user and print there squate and cube
+12 program to accept two value from user and swap there value
+13 program to accept two number and print largest among them
+14 program to accept three number and print them in ascending and decending order
+15 program to find the root of quardatic equation
+16 program to accept rollnumber and marks of three subject from user and print total marks and average and grade
+17 program to print number from 1 to n using while loop
+18 program to print number from n to 1 using do while loop
+19 program to print first n even numbers
+20 program to accept a number and print the number in reverse order
+21 program to accept a number and print sum of its digit 
+22 program to take a number from user and print it is armstrong or not
+23 program to take number from user and print table of the number
+24 program to accept a number and print its factorial
+25 program to accept a number and print fibbonacci series
+26 add n numbers without array
+27 add n numbers using array
+28 program to accept a number and pring the sum of its digits
+29 program to accept a number and print its sum using recursion
+30 average of numbers
+31 program to caluclate square of n numbers
+32 program to take two numbers and check whether they are amicable or not
+33 program to accept a number and print the factors of that number
+34 program to accept two integer number and print gcd
+35 program to find power of a number
+36 program to calculate hcf and lcm 
+37 program to find largest among 3 numbers using ternary oprator
+38 program to check whether the number is neon number or not
+39 program to check niven number (harshad number)
+40 program to check whether a number is pallindrome or not
+41 program to check perfect number
+42 program to find the square root of the number
+43 program to print sum of n prime numbers
+44 program to print sum of factorial series.
+45 program to calculate the sum of n terms in taylor series
+46 program to swap two numbers without using third variable
+47 program to swap two numbers using bitwise xor
+48 program to swap two numbers using pointer
+49 program to add two numbers using pointer
+50 program to add first and last digit of the number
+51 program to find area of triangle using heron's formula
+52 program to convert binary to decinal
+53 program to convers decimal number to binary
+54 program to find f(x) by lagrange's interpolation method
+55 program to check the leap year
+56 program to find ncr and npr
+57 program for newton raphson general
+58 program to calculate the sum of even numbers from 1 to n
+59 simpson 1/3 rules
+60 goldbach's conjecture 
+\* is a rule in math that states the following : every event number greater then 2 can be expressed as the sum of two prime numbers*\
+61 numerical spiral pattern
+62 program to check whether the numbver is palindrome or not using recursion
+63 program to accept value of base & height and calculate area of triangle
+64 program to find compound interest
+65 program to convert celsius to fahrenheit
+66 program to convert centimeter to meters and kilometers
+66 program to find area and parameter of ractangle
+67 program to find area of circle using circle
+68 program to find perfect square
+69 program to find square and cube root 
+70 program to find volume of the box
+71 lcm and gcd of numbers
+72 automorphic number or not
+73 Maximum number of handshakes
+74 Quadrants in which coordinates lie
+75 Convert digit/number to words
+76 Number of days in a given month of a given year
+77 Permutations in which n people can occupy r seats in a theatre
+78 Number of times digit 3 occurs in each and every number from 0 to n
+79 Number of integers which has exactly 9 divisors
+80 Count possible decodings of a given digit sequence
+81 C Program to Make a Simple Calculator Using switch...case
+82 C Program to Store Information of a Student Using Structure
+83 C Program to Add Two Distances (in inch-feet system) using Structures
+84 C Program to Add Two Complex Numbers by Passing Structure to a Function
+85 C Program to Calculate Difference Between Two Time Periods
+86 C Program to Store Information of Students Using Structure
+87 C Program to Store Data in Structures Dynamically
+88 C Program to Write a Sentence to a File
+89 C Program to Read a Line From a File and Display it
+90 C Program to Display its own Source Code as Output
+91 
+array programming
+matrix programming
+file handling
+string programms
+data structure

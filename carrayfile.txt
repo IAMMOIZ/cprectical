@@ -1,0 +1,114 @@
+array
+1 program to find largest number of n number
+2 program to arrange array numbers in ascending order
+3 program to delete an element from array
+4 program to delete an given number from array
+5 program to find largest and smallest number in array
+6 program to reverse an array
+7 program to insert an element in array
+8 insertion sort , selection sort , bubble sort 
+9 binary search
+10 program to accessing two dimensional array elements
+11 program to swapping array elements
+12 way of array initialization
+13 program find average of array.
+14 program to display even numbers in an array
+15 program to find min and max elements in array
+16 find second minimum in array
+17 find second max in array
+18 find out the sum of all even indexed element from a given int array
+19 find out the sum of all odd indexed element from a given int array
+20 find out the min value from all even indexed elements from given int array
+21 find out the max value from all odd indexed elements from a given array
+22 find out the average value from all even indexed elements from a given array
+23 find out the averatge value from all odd indexed elements from a givent int array
+24 find out the sum of all elements from a first half of given int array
+25 find out the sum of all elements from a first half of given int array
+26 find out the sum of all elements from a second half of the given int array
+27 find out min and max value from first half of given int array
+28 find out min and max value from second half of given int array
+29 read all the elements from an array in the reverse order
+30 read even indexed elements from array in reverse order
+31 read odd indexed elements from array in reverse order
+32 find out the index of given element in array
+33 swap two given indexed element in array 
+34 reverse only first half of elements of given array
+35 reverse only last half of elements of given array
+36 reverse only event indexed of the elements of given array
+37 reverse only odd indexed of the elements of given array
+38 swap odd indexed elements with its immediate next even indexed elements of given array
+39 do right shift by one for elements of given array
+40 do right shift by two for elements of given array
+41 do left shift by one for elements of given array
+42 do left shift by two for elemnets of given array
+43 do right rotate by one for elements of given array
+44 do right rotate by two for elements of given array
+45 insert delete update element in the array
+46 array with pointer
+47 pass array to another function
+48 Basic array operations (Insert, delete and search an element)
+49 Check if two arrays are the same or not
+50 Finding the array type
+60 Sum of positive square elements in an array
+61 Longest palindrome in an array
+62 Count distinct elements of an array
+63 Non-repeating elements of an array
+64 Repeating elements in an array
+65 Remove duplicate elements in an array
+66 Minimum scalar product of two vectors
+67 Maximum scalar product of two vectors
+68 Can the numbers of an array be made equal?
+69 Missing elements of a range
+70 Triplets with a given sum
+71 Number of even and odd elements in an array
+72 Frequency of each element of an array
+73 Symmetric pairs in an array
+74 Maximum product subarray in a given array
+75 Arrays are disjoint or not
+76 Array is a subset of another array or not
+77 Can all numbers of an array be made equal
+78 Minimum sum of absolute difference of given array
+79 Sorting elements of an array by frequency
+80 Sort an array according to the order defined by another array
+81 Replace each element of the array by its rank in the array
+82 Equilibrium index of an array
+83 Array rotation - Left and right
+84 Block swap algorithm for array rotation
+85 Juggling algorithm for array rotation
+86 Circular rotation of an array by K positions
+87 Convert an array into a zig-zag fashion
+88 Merge two sorted arrays
+89 Longest subarray having an average greater than or equal to k
+90 Rearrange positive and negative numbers in an array
+91 Sum of all odd frequency elements in an array
+92 Median of two sorted arrays
+93 0-1 Knapsack problem
+94 C Program to Calculate Standard Deviation
+Matrix
+1 program to add two matrix
+2 program to check whether the matrix is sparse matrix or not
+3 program to calculate the determinant of 2*2 matrix
+4 program to calculate the determinant of 3*3 matrix
+5 multication of two martics
+6 program to display lower triangle of a matrix
+7 program to display upper half of matrix
+8 identity matrix
+9 program to find inverse of matrix using gauss jordan method
+10 matrix addition
+11 matrix multiplication
+12 matrix subtraction
+13 Matrix operations (Addition, subtraction and multiplication)
+14 Transpose of a matrix
+15 Upper triangular matrix or not
+16 Lower triangular matrix or not
+17 The maximum element in a row
+18 The maximum element in a column
+19 Sum of each row and column of a matrix
+20 Saddle point coordinates of a given matrix
+21 Sum of elements in the zig-zag sequence of a matrix
+22 Sum of boundary elements of a matrix
+23 Matrix printing in aspiral form
+24 Rotate the matrix by K times
+25 Matrix rotation by 90 degrees clockwise and anticlockwise
+26 Maximum size of square submatrix with all 1s in a binary matrix
+27 C Program to Multiply two Matrices by Passing Matrix to a Function
