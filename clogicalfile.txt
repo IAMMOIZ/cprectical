@@ -17,20 +17,20 @@ folder name [logical]
 8 program to accept values of two numbers and print there addition[8.c]
 9 program to calculate simple interest[9.c]
 10 program to accept value of radius and print area of circle[10.c]
-11 program to accept a number from user and print there squate and cube
-12 program to accept two value from user and swap there value
-13 program to accept two number and print largest among them
+11 program to accept a number from user and print there square and cube[11.c]
+12 program to accept two value from user and swap there value[12.c]
+13 program to accept two number and print largest among them[13.c]
 14 program to accept three number and print them in ascending and decending order
 15 program to find the root of quardatic equation
 16 program to accept rollnumber and marks of three subject from user and print total marks and average and grade
-17 program to print number from 1 to n using while loop
+17 program to print number from 1 to n using while loop[14.c]
 18 program to print number from n to 1 using do while loop
-19 program to print first n even numbers
-20 program to accept a number and print the number in reverse order
-21 program to accept a number and print sum of its digit 
+19 program to print first n even numbers[15.c]
+20 program to accept a number and print the number in reverse order[16.c]
+21 program to accept a number and print sum of its digit [17.c]
 22 program to take a number from user and print it is armstrong or not
-23 program to take number from user and print table of the number
-24 program to accept a number and print its factorial
+23 program to take number from user and print table of the number[18.c]
+24 program to accept a number and print its factorial[19.c]
 25 program to accept a number and print fibbonacci series
 26 add n numbers without array
 27 add n numbers using array
