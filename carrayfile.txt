@@ -16,12 +16,12 @@ array
 8 insertion sort , selection sort , bubble sort 
 9 binary search
 10 program to accessing two dimensional array elements
-11 program to swapping array elements
+11 program to swapping two array elements[24.c]
 12 way of array initialization
 13 program find average of array.[14.c]
 14 program to display even numbers in an array[15.c]
-16 find second minimum in array
-17 find second max in array
+16 find second minimum in array[22.c]
+17 find second max in array[23.c]
 18 find out the sum of all even indexed element from a given int array[16.c]
 19 find out the sum of all odd indexed element from a given int array[17.c]
 20 find out the min value from all even indexed elements from given int array[18.c]
@@ -49,8 +49,9 @@ array
 43 do right rotate by one for elements of given array
 44 do right rotate by two for elements of given array
 45 update element in the array if found otherwise print not found[16.c]
-46 array with pointer
-47 pass array to another function
+46 array with pointer[20.c]
+47 pass array to another function[19.c][]
+47 pass array to another function with pointer[20.c][]
 49 Check if two arrays are the same or not[17.c]
 50 Finding the array type
 60 Sum of positive square elements in an array
@@ -116,3 +117,5 @@ Matrix
 25 Matrix rotation by 90 degrees clockwise and anticlockwise
 26 Maximum size of square submatrix with all 1s in a binary matrix
 27 C Program to Multiply two Matrices by Passing Matrix to a Function
+
+list of array methods in c

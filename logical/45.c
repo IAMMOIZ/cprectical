@@ -1,4 +1,4 @@
-//hcf[higest common factor] of two number
+//hcf[higest common factor] or gcd [ greatest common devisor] of two number
 #include<stdio.h>
 int main()
 {

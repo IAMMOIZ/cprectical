@@ -1,4 +1,4 @@
-//pass array to function 1
+//pass array to function tecnique one
 #include<stdio.h>
 
 void printArray(int array[] , int length)

@@ -1,0 +1,7 @@
+) Traversing : Traversing an Array means going through each element of an Array exactly once. We start from the first element and go to the last element. 
+2) Searching : The search operation is used to find a particular data item or element in an Array. We can perform searching in an unsorted array with the help of traversal of the Array. The linear traversal from the first element to the last element can be used to search if a given number is present in an Array and can also be used to find its position if present.
+3) Insertion
+4) Deletion
+5) Sorting
+6) Searching
+7)
